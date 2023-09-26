@@ -1,0 +1,54 @@
+# .NET Core and Visual Studio files
+.vscode/
+.vs/
+bin/
+obj/
+Debug/
+Release/
+publish/
+node_modules/
+npm-debug.log
+
+*.appx
+*.appxrecipe
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio 2019
+.vs2019/
+
+# Visual Studio Code
+.history/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Visual Studio for Mac
+.project/
+nbproject/
+xcuserdata/
