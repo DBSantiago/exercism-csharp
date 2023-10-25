@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnalynsInfiltration", "Ann
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogLevels", "LogLevels\LogLevels.csproj", "{5E7C5716-8CFA-4B96-B73A-A7898DC4201F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAnalysis", "LogAnalysis\LogAnalysis.csproj", "{489E719A-56F5-4674-AC24-AD82F2873B48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{5E7C5716-8CFA-4B96-B73A-A7898DC4201F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E7C5716-8CFA-4B96-B73A-A7898DC4201F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E7C5716-8CFA-4B96-B73A-A7898DC4201F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489E719A-56F5-4674-AC24-AD82F2873B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489E719A-56F5-4674-AC24-AD82F2873B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489E719A-56F5-4674-AC24-AD82F2873B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489E719A-56F5-4674-AC24-AD82F2873B48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
